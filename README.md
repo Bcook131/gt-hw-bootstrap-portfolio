@@ -15,9 +15,9 @@ Clone the repo, and run the index.html file in browser.
 ## Usage
 
 This HTML file uses the common practices of bootstrap and responsive.
-![Application Image 1](assets\websiteimage1.png)
-![Application Image 2](assets\websiteimage2.png)
-![Application Image 3](assets\websiteimage3.png)
+![Application Image 1](gt-hw-bootstrap\assets\hw02-01.png)
+![Application Image 2](gt-hw-bootstrap\assets\hw02-02.png)
+![Application Image 3](gt-hw-bootstrap\assets\hw02-03.png)
 
 ## Credit
 
