@@ -1,10 +1,29 @@
 .navbar-brand{
     background-color: teal;
+    border-radius: 25px;
+    font-size: 15px;
+    padding: 10px;
+    color: white !important;
 }
+a:hover {
+    background-color: teal;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: black;
+    color: white;
+    border-width: medium;
+    padding: 5px;
+}
+
+.project-title {
+    margin: 15px;
+}
+
 .container{
     background-color: white;
     margin: 15px 15px;
     width: auto;
+    border-radius: 25px;
 }
 body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVFvpUVsVl1Q0yaFDiF2sd3JpW-V3voFnBEZ1b33Z6HqN6KxDO&usqp=CAU);
@@ -16,16 +35,45 @@ body{
     margin: 15px 15px;
 }
 footer{
-    position: fixed;
+    position: static;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color:grey;
     color: white;
     text-align: center;
+    padding: 10px;
 }
 .bio-image{
     width: 150px;
     height: 150;
     padding: 15px 15px;
+}
+a {
+    display: block !important;
+    color: white;
+    background-color: teal;
+    margin: 5px;
+    border-radius: 25px;
+    padding: 5px;
+}
+.links {
+    width: max-content;
+}
+.nav-link-1 {
+    width: 53px;
+    color: white !important;
+}
+.nav-link-2 {
+    width: 55px;
+}
+.nav-link-3 {
+    width: 67px;
+}
+.nav-link-4 {
+    width: 70px;
+    margin-bottom: 5px;
+}
+.resume {
+    width: 76px;
 }
